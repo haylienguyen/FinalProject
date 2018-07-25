@@ -1,1 +1,14 @@
+.header img {
+  align = "center"
+  float: left;
+  width: 200px;
+  height: 100px;
+  background: #555;
+}
 
+.header h1 {
+  align = "center"
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
