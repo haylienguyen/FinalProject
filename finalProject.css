@@ -26,7 +26,11 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     font-size: 28px;
 }
 
+<<<<<<< HEAD
 ul { 
+=======
+ul {
+>>>>>>> a603d4e1a8b1d4c0f120ae60433246463fce1db1
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -50,13 +54,13 @@ li a {
 }
 
 li a:hover {
-  background-color: #c27ba0ff;
+  background-color: #111;
 }
 
 .active {
-  background-color: #a64d79ff;
+  background-color: #4CAF50;
 }
- {
+* {
     box-sizing: border-box;
 }
 
