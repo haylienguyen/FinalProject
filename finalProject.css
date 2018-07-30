@@ -1,9 +1,14 @@
 .navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
   overflow: hidden;
   background-color: black;
-  position: fixed;
+  position: -webkit-sticky;
+  position: sticky;
   top: 0;
   width: 100%;
+  z-index: 101;
 }
 
 .navbar a {
@@ -14,6 +19,7 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+
 }
 
 .navbar a:hover {
