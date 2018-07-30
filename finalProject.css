@@ -33,7 +33,6 @@
   width: 200px;
   height: 100px;
   background: #555;
-
 }
 
 .header h1 {
@@ -43,16 +42,8 @@
   left: 10px;
 }
 
-.w3-black w3-xlarge w3-padding-3{
-  z-index: -1;
-}
 
-
-body, h1,h2,h3,h4,h5,h6 {
-  font-family: "Montserrat", sans-serif
-}
-
-
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 .w3-row-padding img {margin-bottom: 12px}
 .bgimg {
     background-position: center;
@@ -66,22 +57,14 @@ body, h1,h2,h3,h4,h5,h6 {
 
 ul {
   list-style-type: none;
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
   overflow: hidden;
   background-color: #333;
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
-<<<<<<< HEAD
-  width: 100%;
-  z-index: 500;
-}
-=======
   }
->>>>>>> 1d8c9e99bf224eada33e99984b278c74bead9fd8
-
-
 
 li {
   float: left;
