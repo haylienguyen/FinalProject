@@ -19,7 +19,7 @@
 
 
 .main {
-  padding: 16px 16px 16px 0;
+  padding: 16px;
   margin-top: 30px;
   height: 1500px; /* Used in this example to enable scrolling */
 }
@@ -45,9 +45,22 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 .bgimg {
     background-position: center;
     background-repeat: no-repeat;
+<<<<<<< HEAD
+    background-size: contain;
+    background-image: url('rally.jpg');
+    min-height: 100%;
+=======
     background-size: fixed;
     background-image: url('rally.jpg');
     min-height: 100%;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    font-size: 28px;
+=======
+>>>>>>> 1e85c06bb4f5dce0cea61cbb1ac09c5e634ada53
+>>>>>>> 922ad98725dc5d0a677a793d50c4cd8f747875b6
+>>>>>>> d18dbc9062271745dc2b3edf2bbf862445f894df
 }
 
 
